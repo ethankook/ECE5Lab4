@@ -4,5 +4,5 @@
 ![image](front.HEIC)
 ![image](back.HEIC)
 ![image](left.HEIC)
-![image](right.HEIC)
+![image](right.png)
 <img width="430" src="TestVideo.mov" />
