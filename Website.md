@@ -5,4 +5,4 @@
 ![Image](back.png)
 ![Image](left.png)
 ![Image](right.png)
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](TestVideo.mov)
+[![Watch the video](TestVideo.mov)
