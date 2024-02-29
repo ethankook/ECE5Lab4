@@ -7,5 +7,5 @@
 ![Image](right.png)
 
 
-https://github.com/ethankook/ECE5Lab4/assets/93116378/89cfe1b4-8145-4f8f-a3c6-acd29611ee82
+https://github.com/ethankook/ECE5Lab4/assets/93116378/636c4583-8ab2-4ab9-aab6-67d845f84e86
 
