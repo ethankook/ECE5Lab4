@@ -37,7 +37,7 @@
 // ************************************************************************************************* //
 // Change Robot Settings here
 
-#define PRINTALLDATA        0  // Turn to 1  to prints ALL the data when changed to 1, Could be useful for debugging =)
+#define PRINTALLDATA        1  // Turn to 1  to prints ALL the data when changed to 1, Could be useful for debugging =)
                                 // !! Turn to 0 when running robot untethered
 #define NOMINALSPEED        30 // This is the base speed for both motors, can also be increased by using potentiometers
 
@@ -60,7 +60,7 @@ const int P_pin = A1; // Pin connected to P term potentiometer
 const int I_pin = A2; // Pin connected to I term potentiometer
 const int D_pin = A3; // Pin connected to D term potentiometer
                                                                  
-int led_Pins[] = {13,41,43,45,47,49,51,53};  // LEDs to indicate what part of calibration you're on and to illuminate the photoresistors
+int led_Pins[] = {13,41,43,45,47,49,51,53,31,33};  // LEDs to indicate what part of calibration you're on and to illuminate the photoresistors
 
 // ****** DECLARE Variables HERE  ****** 
 
@@ -322,12 +322,12 @@ void PID_Turn() {
     sumerror = 0;
 
   if (Turn < 0) {
-    M1P = -Turn;       // One motor becomes slower and the other faster
-    M2P = Turn;
+    M1P = Turn;       // One motor becomes slower and the other faster
+    M2P = -Turn;
   }
   else if (Turn > 0) {
-    M1P = -Turn;
-    M2P = Turn;
+    M1P = Turn;
+    M2P = -Turn;
   }
   else {
     M1P = 0;
