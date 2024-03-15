@@ -1,6 +1,9 @@
 # Lab 4 - Robotics 
-## Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young
+**Team 9 (is also our team name)
+*Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young*
 
+## Robot Building Section
+*Prototype*
 ![Image](front.png)
 ![Image](back.png)
 ![Image](left.png)
