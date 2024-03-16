@@ -58,9 +58,11 @@ After failing to complete a loop on the end of week 9, we realized we needed to 
 Below are examples of two previous iterations of our boards: 
 
 ![image](photos1.png)
+
 This board had two LEDs. 
 
 ![image](photos2.png)
+
 This board had seven LEDs.
 
 We realized that since we needed the photoresistors to be a little less than an inch long off the board, we carefully soldered the desired lengths and tried to make them as even and straight as possible. From there, we also got better fitting wires that didn't require us to shove them into the arduino. 
