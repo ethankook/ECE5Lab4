@@ -1,8 +1,8 @@
 # Lab 4 - Robotics 
-**Team 9 (is also our team name)**
+**Team 9**
 
 
-*Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young*
+Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young
 
 ## Robot Building Section
 **Prototype**
@@ -22,8 +22,30 @@
 
 
 ## Explanation of PID values
+*What PID values did you choose and why*
+*How did you adjust Speed and PID for diff tracks*
+*Delete these ^*
 
 ## Poster
+![image](Poster.png)
+
+## Competition Scores
+**Drag Race** 
+3rd Place, Best time: 10.23s
+
+**Frequency Track**
+??
+
+**Loop**
+9 loops, 4th place
 
 
+## Videos from competition day
+[Link to videos on google drive](https://drive.google.com/drive/u/2/folders/1gGlPgxhtZnbpn68bcWfV5KM_cQos1q3o)
+
+## Team Picture
+![image](Teampic.png)
+
+## Final Improvements
+*4-6 sentences on improcements made during the last week and improvents (delete this)*
 
