@@ -15,14 +15,14 @@ Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young
 
 ## Final Robot
 *soldered protoboards for smaller and lighter load*
+![image](IMG_7209.jpg)
 
 *switch to turn motor on and off*
 
 *LEDS for underglow and for better and more consistent photoresister readings*
-
 ![image](IMG_7207.jpg)
+
 ![image](IMG_7208.jpg)
-![image](IMG_7209.jpg)
 
 ## Explanation of PID values
 For the circuit track, we had a high `NOMINALSPEED` value of 90 and adjusted our `S` to be about 75. Our main tuning was the `P` value which we increased proportionally to the speed, turning them both by the same amount everytime we wanted to go faster.
