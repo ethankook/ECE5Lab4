@@ -44,7 +44,7 @@ Ethan Kook, Anthony Sanchez, Minh Quach, Ashlee Young
 [Link to videos on google drive](https://drive.google.com/drive/u/2/folders/1gGlPgxhtZnbpn68bcWfV5KM_cQos1q3o)
 
 ## Team Picture
-![image](Teampic.png)
+![image](Teampic.HEIC)
 
 ## Final Improvements
 *4-6 sentences on improcements made during the last week and improvents (delete this)*
