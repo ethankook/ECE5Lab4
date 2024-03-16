@@ -67,9 +67,16 @@ This board had seven LEDs.
 
 We realized that since we needed the photoresistors to be a little less than an inch long off the board, we carefully soldered the desired lengths and tried to make them as even and straight as possible. From there, we also got better fitting wires that didn't require us to shove them into the arduino. 
 
+
+![image](IMG_7207.jpg)
+
 In the days leading up to the competition, we continued to test our design by running different PID values on the loop tracks. We hit a very good run on the Wednesday lab in week 10 but unfortunately, due to us changing the battery the next day, we had to reset all our written down PID values and recalibrate everything since our new batteries made it much faster and as a result less accurate. We also had to change back our base speed values from 90 back to 50. To ensure that nothing was out of place for the competiton, we hot glued the wires to the arduino.
 
+![image](IMG_7208.jpg)
+
 We attempted to modify our code so that our robots could run more smoothly if there were weird curves or sharp edges but we realized that it made our runs worse and we didn't have enough time to test and debug our code. Additionally, even though our robot worked well and could go several laps around the circuit track (which was our main means of testing it), we found that more often then not, there would be times when our robot would suddenly not detect a line and not change its path when its previous rounds around the track had been smooth. To fix this issue, we just went slower.
+
+![image](IMG_7209.jpg)
 
 After the competiton, it became apparent that because our batteries were buried beneath all our hardware and glued and taped, we were unable to compete against the first and second place teams. The amount of practicing that we had done during the previous day and morning of the race had used up some of our voltage and our battery was around 8 V compared to the brand new batteries of the other two teams.
 
