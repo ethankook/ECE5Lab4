@@ -38,7 +38,7 @@ Finally, for the frequency track, we did a lot worse than expected. We set our `
 3rd Place, Best time: 10.23s
 
 **Frequency Track**
-Distance: 6th checkpoint
+Distance: 6, Time: 2:55, Rank: 9
 
 **Loop**
 9 loops, 4th place
